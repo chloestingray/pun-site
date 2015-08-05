@@ -15,7 +15,7 @@ p{
 }
 
 
-div.puns{
+div.chem{
   color: white;
   background-color: rgba(0,0,0,0.75);
   border-style: solid;
@@ -24,8 +24,29 @@ div.puns{
   padding: 7px;
   float:left;
   width:60%;
+  margin: 7px;
 }
 
-aside{
-  display: inline-block;
+div.comp_sci{
+  color: white;
+  background-color: rgba(0,0,0,0.75);
+  border-style: solid;
+  border-width: 7px;
+  border-color: rgba(0,0,0,0.75);
+  padding: 7px;
+  float:left;
+  width:60%;
+  margin: 7px;
+}
+
+div.phys{
+  color: white;
+  background-color: rgba(0,0,0,0.75);
+  border-style: solid;
+  border-width: 7px;
+  border-color: rgba(0,0,0,0.75);
+  padding: 7px;
+  float:left;
+  width:60%;
+  margin: 7px;
 }
