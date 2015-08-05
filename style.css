@@ -1,0 +1,29 @@
+body{
+  background: url(../images/nebula.jpg);
+}
+
+h1{
+  font-family: arial;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+p{
+  font-family: arial;
+  color: white;
+}
+
+
+div.puns{
+  color: white;
+  background-color: rgba(0,0,0,0.75);
+  border-style: solid;
+  border-width: 7px;
+  border-color: rgba(0,0,0,0.75);
+  padding: 7px;
+}
+
+aside{
+  display: inline-block;
+}
