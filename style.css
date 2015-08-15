@@ -1,9 +1,17 @@
+<link href='http://fonts.googleapis.com/css?family=ABeeZee' rel='stylesheet' type='text/css'>
+
+
+h1 { font-family: ‘Metrophobic’, Arial, serif; font-weight: 400; }
+
+p { font-family: ‘Metrophobic’, Arial, serif; font-weight: 400; }
+
+
 body{
-  background: url(../images/nebula.jpg);
+  background: url(images/nebula.jpg);
 }
 
-h1{
-  font-family: arial;
+h1
+/*   font-family: 'ABeeZee', sans-serif; */
   font-weight: bold;
   color: white;
   text-align: center;
@@ -11,7 +19,7 @@ h1{
 }
 
 p{
-  font-family: arial;
+/*   font-family: 'ABeeZee', sans-serif; */
   color: white;
 }
 
